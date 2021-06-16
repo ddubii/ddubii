@@ -15,7 +15,9 @@
 ### Hello, I'm Hanbi Kim!
 
 Hi. I'm a student at Sookmyung Women's University.
+
 I am currently majoring in IT Engineering.
+<br/>
 My area of interest is data science.
 <br/>
 
