@@ -1,6 +1,6 @@
 
 ## Hi There 👋  
-
+ 
 I'm a student majoring in IT Engineering and statistics.
 
 My area of interest is data science and I'm still in the process of learning.
