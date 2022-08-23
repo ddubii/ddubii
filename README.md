@@ -1,7 +1,7 @@
 
-## Hi There 👋  
+## 안녕하세요 👋👋  
  
-I'm a student majoring in IT Engineering and statistics.
+IT공학과 통계학을 전공하고 있는 학생입니다.
 
 Thank you!
 <br/>
